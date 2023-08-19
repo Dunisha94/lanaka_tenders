@@ -1,0 +1,44 @@
+.gradient {
+  background: rgb(40, 34, 70);
+  background: linear-gradient(
+    158deg,
+    rgba(40, 34, 70, 1) 0%,
+    rgba(30, 47, 141, 1) 100%
+  );
+}
+.gradientlight {
+  background: rgb(53, 138, 148);
+  background: linear-gradient(
+    158deg,
+    rgba(53, 138, 148, 1) 0%,
+    rgba(91, 180, 96, 1) 100%
+  );
+}
+.gradientdark {
+  background: rgb(170, 12, 46);
+  background: linear-gradient(
+    158deg,
+    rgb(226, 8, 19) 0%,
+    rgb(221, 70, 103) 100%
+  );
+}
+.gradientorder {
+  background: rgb(3, 252, 78);
+  background: linear-gradient(
+    158deg,
+    rgb(231, 193, 25) 0%,
+    rgb(221, 70, 103) 100%
+  );
+}
+.gradientlightorder {
+  background: rgb(206, 58, 149);
+  background: linear-gradient(
+    158deg,
+    rgb(5, 68, 105) 0%,
+    rgb(221, 70, 103) 100%
+  );
+}
+.gradientdarkorder {
+  background: rgb(92, 5, 233);
+  background: linear-gradient(158deg, rgb(3, 199, 248) 0%, rgb(20, 6, 85) 100%);
+}
